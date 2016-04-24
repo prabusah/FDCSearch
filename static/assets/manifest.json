@@ -1,0 +1,16 @@
+{
+  "short_name": "Banned drugs",
+  "name": "Banned drugs",
+  "start_url": "/index.html",
+  "icons": [
+    {
+      "src": "/static/assets/images/banned.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#FAFAFA",
+  "theme_color": "#4527A0",
+  "display": "standalone",
+  "orientation": "portrait"
+}
